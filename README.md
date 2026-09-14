@@ -65,7 +65,7 @@ A student-focused educational platform where users can access notes, previous ye
 
 **Tech:** React.js • Node.js • Express.js • MongoDB
 
-🔗 **[Live Website](https://student-resources-hub-production.vercel.app/)**
+🔗 **[Live Website](https://student-resources-hub-production.vercel.app/login)**
 
 ---
 
