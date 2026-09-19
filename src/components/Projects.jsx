@@ -13,7 +13,7 @@ technologies: [
 "MongoDB",
 ],
 github: "https://github.com/",
-demo: "https://student-resources-hub-production-p6q832s26.vercel.app/login",
+demo: "https://student-resources-hub-production-k5rk8wlwq.vercel.app/login",
 },
 
 
