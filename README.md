@@ -4,7 +4,7 @@ Welcome to my personal portfolio website.
 
 ## 🌐 Live Website
 
-👉 https://abhiraj-portfolio-gules.vercel.app/#home
+👉 https://abhiraj-portfolio-gules.vercel.app/
 
 ## ✨ Features
 
