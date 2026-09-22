@@ -1,36 +1,75 @@
-# Abhiraj Kumar — Advanced Portfolio
+# 🚀 Abhiraj Kumar — Portfolio
 
-Premium React + Vite portfolio with a client-side Admin Studio.
+Welcome to my personal portfolio website.
 
-## Features
-- Modern dark/glassmorphism UI
-- Animated hero, grid background, floating code card and scroll reveal
-- Responsive navigation
-- Projects, skills, education and profile sections
-- Contact form that stores messages in browser localStorage
-- Admin Studio at `#/admin`
-- Edit profile, projects, skills and education without changing component code
-- Reset portfolio data to defaults
-- Data is stored in `localStorage`
+## 🌐 Live Website
 
-## Run
-```bash
-npm install
-npm run dev
-```
+👉 https://abhiraj-portfolio-gules.vercel.app/#home
 
-## Admin
-Open:
-`http://localhost:5173/#/admin`
+## ✨ Features
 
-This admin is intentionally frontend/localStorage based. It is suitable for a personal/demo portfolio, but it is **not secure for production** because there is no server-side authentication or database.
+- 🎨 Modern and responsive portfolio UI
+- 👨‍💻 About Me section
+- 🛠️ Skills section
+- 🎓 Education section
+- 💼 Projects section
+- 📩 Contact section
+- 📄 Resume download
+- ⚙️ Admin Panel
+- 📱 Mobile responsive design
+- ⚡ React + Vite
+- 🚀 Vercel deployment
 
-For a production admin panel, connect the same UI to a backend such as Node/Express + MongoDB and add authentication/session/JWT protection.
+## ⚙️ Admin Panel
 
-## Main files
-- `src/data.js` — portfolio data + localStorage persistence
-- `src/components/Admin.jsx` — admin dashboard
-- `src/components/Hero.jsx` — hero section
-- `src/components/Projects.jsx` — project cards
-- `src/components/Contact.jsx` — contact form
-- `src/App.css` — portfolio + admin styling
+The portfolio includes an admin panel for managing portfolio information.
+
+Admin URL:
+
+👉 https://abhiraj-portfolio-gules.vercel.app/#/admin
+
+> Note: The current admin panel uses browser localStorage for storing portfolio data. It is a frontend admin interface and does not provide server-side authentication or database storage.
+
+## 🛠️ Tech Stack
+
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Git
+- GitHub
+- Vercel
+
+## 📂 Project Structure
+
+```text
+abhiraj-portfolio/
+├── public/
+│   ├── favicon.svg
+│   ├── icons.svg
+│   └── Abhiraj-Kumar-Resume.pdf
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── About.jsx
+│   │   ├── Admin.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Education.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Projects.jsx
+│   │   └── Skills.jsx
+│   │
+│   ├── App.jsx
+│   ├── App.css
+│   ├── data.js
+│   ├── index.css
+│   └── main.jsx
+│
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
